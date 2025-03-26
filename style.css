@@ -1,0 +1,219 @@
+.main{
+  width: 800px;
+  height: 400px;
+  background: #ffffff;
+}
+.a1{
+  width: 800px;
+  height: 100px;
+  background: #bb0808;
+}
+
+.a2{
+  width: 800px;
+  height: 100px;
+  background: #1ea9c2;
+  display: flex;
+}
+.a2 .b1{
+  width: 114px;
+  height: 100px;
+  background: #000000;
+}
+.a2 .b2{
+  width: 114px;
+  height: 100px;
+  background: #ffffff;
+}
+.a2 .b3{
+  width: 114px;
+  height: 100px;
+  background: #000000;
+}
+.a2 .b4{
+  width: 114px;
+  height: 100px;
+  background: white;
+}
+.a2 .b5{
+  width: 114px;
+  height: 100px;
+  background: #000000;
+}
+.a2 .b6{
+  width: 114px;
+  height: 100px;
+  background: white;
+}
+.a2 .b6 .c1{
+  width: 114px;
+  height: 50px;
+  background: #a31c9c;
+}
+.a2 .b6 .c2{
+  width: 114px;
+  height: 50px;
+  background: #16c582;
+  display: flex;
+}
+.a2 .b6 .c2 .d1{
+  width: 57px;
+  height: 50px;
+  background: #e6b3f5;
+}
+.a2 .b6 .c2 .d2{
+  width: 57px;
+  height: 50px;
+  background: #a0e784;
+}
+.a2 .b7{
+  width: 114px;
+  height: 100px;
+  background: #000000;
+}
+
+
+.a3{
+  width: 800px;
+  height: 100px;
+  background: #90bb19;
+}
+.a4{
+  width: 800px;
+  height: 100px;
+  background: #a31c9c;
+  display: flex;
+}
+.a4 .b1{
+  width: 160px;
+  height: 100px;
+  background: #23e0d6;
+}
+.a4 .b2{
+  width: 160px;
+  height: 100px;
+  background: #ba23e0;
+}
+.a4 .b2 .c1{
+  width: 160px;
+  height: 20px;
+  background: #2375e0;
+}
+.a4 .b2 .c2{
+  width: 160px;
+  height: 20px;
+  background: #23e097;
+}
+.a4 .b2 .c3{
+  width: 160px;
+  height: 20px;
+  background: #081100;
+}
+.a4 .b2 .c4{
+  width: 160px;
+  height: 20px;
+  background: #e0c423;
+}
+.a4 .b2 .c5{
+  width: 160px;
+  height: 20px;
+  background: #c74a69;
+  display: flex;
+}
+.a4 .b2 .c5 .d1{
+  width: 80px;
+  height: 20px;
+  background: #54c74a;
+}
+.a4 .b2 .c5 .d2{
+  width: 80px;
+  height: 20px;
+  background: #000000;
+}
+.a4 .b2 .c5 .d2 .e1{
+  width: 80px;
+  height: 10px;
+  background: #d61f1f;
+}
+.a4 .b2 .c5 .d2 .e2{
+  width: 80px;
+  height: 10px;
+  background: #ffffff;
+}
+.a4 .b3{
+  width: 160px;
+  height: 100px;
+  background: #5c23e0;
+}
+.a4 .b4{
+  width: 160px;
+  height: 100px;
+  background: #e02323;
+}
+.a4 .b4 .c1{
+  width: 160px;
+  height: 50px;
+  background: #d6179d;
+}
+.a4 .b4 .c2{
+  width: 160px;
+  height: 50px;
+  background: #000000;
+  display: flex;
+}
+.a4 .b4 .c2 .d1{
+  width: 80px;
+  height: 50px;
+  background: #ff1a1a;
+}
+.a4 .b4 .c2 .d2{
+  width: 80px;
+  height: 50px;
+  background: #21ddbe;
+}
+.a4 .b4 .c2 .d2 .e1{
+  width: 80px;
+  height: 25px;
+  background: #bbb938;
+}
+.a4 .b4 .c2 .d2 .e2{
+  width: 80px;
+  height: 25px;
+  background: #1d05a0;
+  display: flex;
+}
+.a4 .b4 .c2 .d2 .e2 .f1{
+  width: 20px;
+  height: 25px;
+  background: #7573e9;
+}
+.a4 .b4 .c2 .d2 .e2 .f2{
+  width: 20px;
+  height: 25px;
+  background: #000000;
+}
+.a4 .b4 .c2 .d2 .e2 .f3{
+  width: 20px;
+  height: 25px;
+  background: #ffffff;
+}
+.a4 .b4 .c2 .d2 .e2 .f4{
+  width: 20px;
+  height: 25px;
+  background: #09c9cf;
+}
+.a4 .b4 .c2 .d2 .e2 .f4 .g1{
+  width: 20px;
+  height: 12.5px;
+  background: #0a8305;
+}
+.a4 .b4 .c2 .d2 .e2 .f4 .g2{
+  width: 20px;
+  height: 12.5px;
+  background: #dd7a38;
+}
+.a4 .b5{
+  width: 160px;
+  height: 100px;
+  background: #000000;
+}
